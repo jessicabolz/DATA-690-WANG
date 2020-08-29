@@ -11,5 +11,7 @@
 3.  **%run:**  run any file that's in session as a Python program.  
 4.  **Ctrl-C:**  executes program
 5.  **%magic command:**  facilitate common commands (pg. 29 for list)
+6.  **Language basics:**  I know these
+
 
 
