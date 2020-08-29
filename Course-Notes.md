@@ -10,4 +10,6 @@
 2.  **? Introspection:**  use a ? before or after a var to disply general info about the object.  ?? shows code if object is a function.  Used with * will show all names matching wildcard expression:  ex. np.*load*? will give a list of all functions in the top-level NumPy namespace containing load.
 3.  **%run:**  run any file that's in session as a Python program.  
 4.  **Ctrl-C:**  executes program
+5.  **%magic command:**  facilitate common commands (pg. 29 for list)
+
 
