@@ -7,6 +7,6 @@
 # 690 Assignment 1
 ## Notes on Chapter 2
 1.  **Tab completion:**  while entering expressions, pressing tab will search namespace for any vars. matching the chars. you've typed so far.  Also works for methods and attributes and if typing anything that looks like a file path.
-2.  **? Introspection:**  use a ? before or after a var to disply general info about the object
+2.  **? Introspection:**  use a ? before or after a var to disply general info about the object.  ?? shows code if object is a function.  Used with * will show all names matching wildcard expression:  ex. np.*load*? will give a list of all functions in the top-level NumPy namespace containing load.
 
 
