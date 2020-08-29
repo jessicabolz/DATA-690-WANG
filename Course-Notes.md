@@ -6,7 +6,7 @@
 
 # 690 Assignment 1
 ## Notes on Chapter 2
-1.  Tab completion:  while entering expressions, pressing tab will search namespace for any vars. matching the chars. you've typed so far.  **Also works for methods and attributes and if typing anything that looks like a file path.**
-2.  ? Introspection:  use a ? before or after a var to disply general info about the object
+1.  **Tab completion:**  while entering expressions, pressing tab will search namespace for any vars. matching the chars. you've typed so far.  Also works for methods and attributes and if typing anything that looks like a file path.
+2.  **? Introspection:**  use a ? before or after a var to disply general info about the object
 
 
